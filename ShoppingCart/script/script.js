@@ -1,5 +1,5 @@
 var i = 0, totalAmount = 0, currentItem = 0;
-var images = ["../assets/dress.jpg", "../assets/footwear.jpeg", "../assets/handbags.JPG", "../assets/laptop.jpg", "../assets/ornaments.jpg", "../assets/teddy.jpg", "../assets/orange.jpg", "../assets/chocolate.jpg", "../assets/wheat.jpg"];
+var images = ["../ShoppingCart/assets/dress.jpg", "../ShoppingCart/assets/footwear.jpeg", "../ShoppingCart/assets/handbags.JPG", "../ShoppingCart/assets/laptop.jpg", "../ShoppingCart/assets/ornaments.jpg", "../ShoppingCart/assets/teddy.jpg", "../ShoppingCart/assets/orange.jpg", "../ShoppingCart/assets/chocolate.jpg", "../ShoppingCart/assets/wheat.jpg"];
 var item = ["Frock", "Men's Shoes", "Leather Handbag", "Lenovo Laptop", "Red Ruby Jewellery", "Teddy Bear", "Oranges", "Diary Milk", "Cream Wheat Cinnabon"];
 var price = [850, 1200, 450, 25500, 150000, 500, 50, 10, 275];
 var count = [5, 12, 3, 10, 2, 8, 20, 30, 35];
